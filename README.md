@@ -1,5 +1,5 @@
 # dllinjector
-simple createremote thread injector I spedran in less than 8 minutes for fun
+simple createremotethread loadlibrary injector I spedran in less than 8 minutes for fun
 if you think you can beat my speedrun (with error checking) then go ahead and try
 
 ## disclaimer 
